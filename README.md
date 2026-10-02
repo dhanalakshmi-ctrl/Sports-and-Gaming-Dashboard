@@ -1,4 +1,4 @@
-# Sports and Gaming Dashboard
+# Sports and Gaming Participation Dashboard
 
 ## 📌 Project Type
 Self Project
